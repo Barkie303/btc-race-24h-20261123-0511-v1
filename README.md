@@ -1,8 +1,8 @@
 # BTC Race 24h — Patient Trend Rider
 
-![Competition](https://make.fun/badge/btc-race-24h-20261123-0511.svg)
-![Rank](https://make.fun/badge/btc-race-24h-20261123-0511/Barkie303/btc-race-24h-20261123-0511-v1/rank.svg)
-![Reward](https://make.fun/badge/btc-race-24h-20261123-0511/Barkie303/btc-race-24h-20261123-0511-v1/reward.svg)
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/Barkie303/btc-race-24h-20261123-0511-v1/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/Barkie303/btc-race-24h-20261123-0511-v1/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
 
 A bot that trades Coinbase Wrapped BTC (cbBTC) against USDC on 1-minute
 on-chain prices, starting with $1,000 of paper money, for the make.fun
